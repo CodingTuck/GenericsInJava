@@ -1,5 +1,6 @@
 package tucker19GenericsAndMethods;
 
+
 public class ArrayOfElements {
 
 	public static < E > void arrayOfElements(E[] numElements) {
